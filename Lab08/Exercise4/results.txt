@@ -1,0 +1,25 @@
+SE4060 Parallel Computing - Lab 08
+Exercise 4 - Performance Analysis
+
+Student ID: IT24101643
+
+
+Exercise 2 - Parallel Sum
+
+Processes    Time (seconds)    Speedup
+1            0.021212          1.00
+2            0.011308          1.88
+4            0.011061          1.92
+
+
+Exercise 3 - Monte Carlo Pi
+
+Processes    Time (seconds)    Speedup
+1            0.138410          1.00
+2            0.069278          2.00
+4            0.069498          1.99
+
+
+Speedup Formula:
+
+Speedup = Execution Time with 1 Process / Execution Time with P Processes
